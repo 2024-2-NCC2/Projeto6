@@ -8,7 +8,7 @@
 
 ## Radonix
 
-## Integrantes: <a href="https://www.linkedin.com/in/gabrielcarvalhomota/">Gabriel Carvalho Mota</a>, <a href="https://www.linkedin.com/in/guilherme-siqueira-00a03a255/">Guilherme Siqueira</a>, <a href="https://www.linkedin.com/in/vit%C3%B3ria-leticia-maciel-da-silva-8308a42a6/">Vitoria Leticia Maciel</a>, <a href="https://www.linkedin.com/in/rluizreis/">Rodrigo Luiz</a>
+## Integrantes: <a href="https://www.linkedin.com/in/gabrielcarvalhomota/">Gabriel Carvalho Mota</a>, <a href="https://www.linkedin.com/in/sik4s/">Guilherme Siqueira</a>, <a href="https://www.linkedin.com/in/vit%C3%B3ria-leticia-maciel-da-silva-8308a42a6/">Vitoria Leticia Maciel</a>, <a href="https://www.linkedin.com/in/rluizreis/">Rodrigo Luiz</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Bossi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>
 
